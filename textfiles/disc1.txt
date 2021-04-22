@@ -1,0 +1,6 @@
+Title: OK Computer
+Release Date: 10/10/10
+Genre: Rock
+Artist: Radiohead
+Number Of Songs: 10
+Duration (minutes): 120
